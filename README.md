@@ -1,2 +1,2 @@
 # mosques_system
-This Python program is a terminal Tic-Tac-Toe game where you can play against the computer or a friend. You choose your letter, who goes first, and the board updates after every move. It detects wins and draws automatically, and the computer can block or go for the win.
+This is a Python desktop app using Tkinter and SQLite3 to manage mosque records. It supports displaying, searching, adding, deleting, and updating entries via a clean GUI. Extra features include fuzzy search using difflib and map display using folium.
